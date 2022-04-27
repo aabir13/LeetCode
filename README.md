@@ -6,5 +6,5 @@
 ![Medium](https://img.shields.io/badge/Medium-0-f0ad4e.svg?style=flat)
 ![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)
 </br>
-![Languages](https://img.shields.io/badge/Languages-Java%23,%20Java-red.svg?style=flat)
+![Languages](https://img.shields.io/badge/Languages-Java-red.svg?style=flat)
 [![Author](https://img.shields.io/badge/Author-Aabir%20Datta-blue.svg?style=flat)](https://leetcode.com/aabir13/)
