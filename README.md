@@ -8,3 +8,5 @@
 </br>
 ![Languages](https://img.shields.io/badge/Languages-Java-red.svg?style=flat)
 [![Author](https://img.shields.io/badge/Author-Aabir%20Datta-blue.svg?style=flat)](https://leetcode.com/aabir13/)
+
+This repo contains all of my personal LeetCode solutions. The coding solutions provided within this repo are entirely provided by me, [Aabir Datta](https://leetcode.com/aabir13/).
