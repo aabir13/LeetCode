@@ -7,4 +7,4 @@
 ![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)
 </br>
 ![Languages](https://img.shields.io/badge/Languages-Java%23,%20Java-red.svg?style=flat)
-![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat)(https://leetcode.com/aabir13/)
+[![Author](https://img.shields.io/badge/Author-Aabir%20Datta-blue.svg?style=flat)](https://leetcode.com/aabir13/)
