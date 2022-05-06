@@ -2,7 +2,7 @@
 <img src="https://github.com/CrutchTheClutch/LeetCode/raw/master/logo.png" width="450" height="auto"/>
 
 ![Solved](https://img.shields.io/badge/Solved-16/2263-337ab7.svg?style=flat)
-![Easy](https://img.shields.io/badge/Easy-12-5cb85c.svg?style=flat)
+![Easy](https://img.shields.io/badge/Easy-13-5cb85c.svg?style=flat)
 ![Medium](https://img.shields.io/badge/Medium-4-f0ad4e.svg?style=flat)
 ![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)
 </br>
