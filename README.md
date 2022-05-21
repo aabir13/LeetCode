@@ -3,7 +3,7 @@
 
 ![Solved](https://img.shields.io/badge/Solved-27/2268-337ab7.svg?style=flat)
 ![Easy](https://img.shields.io/badge/Easy-18-5cb85c.svg?style=flat)
-![Medium](https://img.shields.io/badge/Medium-6-f0ad4e.svg?style=flat)
+![Medium](https://img.shields.io/badge/Medium-7-f0ad4e.svg?style=flat)
 ![Hard](https://img.shields.io/badge/Hard-2-d9534f.svg?style=flat)
 </br>
 ![Languages](https://img.shields.io/badge/Languages-Java-red.svg?style=flat)
